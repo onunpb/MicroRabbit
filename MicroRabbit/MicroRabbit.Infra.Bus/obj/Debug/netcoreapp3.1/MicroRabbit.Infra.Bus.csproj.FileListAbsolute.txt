@@ -1,0 +1,12 @@
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.AssemblyInfo.cs
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.deps.json
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csproj.CopyComplete
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
