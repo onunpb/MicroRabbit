@@ -102,7 +102,7 @@ namespace MicroRabbit.Infra.Bus
         private async Task Consumer_Received(object sender, BasicDeliverEventArgs e)
         {
             var eventName = e.RoutingKey;
-            var message = Encoding.UTF8.GetString(e.Body.Span);
+            var message = Encoding.UTF8.GetString(e.Body);
 
             try
             {
