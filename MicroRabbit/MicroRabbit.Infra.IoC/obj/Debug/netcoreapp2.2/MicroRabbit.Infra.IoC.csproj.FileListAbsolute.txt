@@ -18,3 +18,9 @@ C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\ne
 C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.csproj.CopyComplete
 C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.dll
 C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.pdb
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb

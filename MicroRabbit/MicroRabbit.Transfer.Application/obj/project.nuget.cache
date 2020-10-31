@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qrXof+g1Z4qzmG3HPSlnQsLn7A9GJmLjs21hoxyQm7nK9mlr26meAuiaYnAoSZteBpTYJ8qw+V10VBZ+2Bqysg==",
+  "dgSpecHash": "eNg2kFxQQD+WvlmI+YcvMPjfUFADY3c5HXcjNs1jaoAxqltKTUIJ3xiKs6tWxhLEw3nustly894Ie1Z8iW8Yrw==",
   "success": true,
   "projectFilePath": "C:\\Tutoriais\\RabbitMQ\\MicroRabbit\\MicroRabbit\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Nuno Barros\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
