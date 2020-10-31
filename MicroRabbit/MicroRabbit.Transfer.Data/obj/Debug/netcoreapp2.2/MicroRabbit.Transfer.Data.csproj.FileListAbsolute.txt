@@ -6,3 +6,4 @@ C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debu
 C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.AssemblyInfo.cs
 C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
 C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.csprojAssemblyReference.cache
