@@ -1,0 +1,8 @@
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.deps.json
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.AssemblyInfo.cs
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb

@@ -1,0 +1,8 @@
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.deps.json
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.AssemblyInfo.cs
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
+C:\Tutoriais\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
