@@ -171,7 +171,11 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Tutoriais\\RabbitMQ\\MicroRabbit\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "C:\\Tutoriais\\RabbitMQ\\MicroRabbit\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

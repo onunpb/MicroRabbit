@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IW3O8+FapE5dyvKFjJI4q2iF0cSgA7DhVybL1A1TkEe4rijYx8nc7ykAC9a92zLLlOSlN9is2XBbK8zsOZktYw==",
+  "dgSpecHash": "HSE3kRl4dJ++Pyoip0/wbqZ99B8js/s1qnbYm7bdxeYDAK5I2qQQJO+CgG1qj53M6kUQRdHu3ZkSftqHJHN4Hg==",
   "success": true,
   "projectFilePath": "C:\\Tutoriais\\RabbitMQ\\MicroRabbit\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Nuno Barros\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Nuno Barros\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.4\\microsoft.entityframeworkcore.2.2.4.nupkg.sha512",
     "C:\\Users\\Nuno Barros\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.2.4\\microsoft.entityframeworkcore.abstractions.2.2.4.nupkg.sha512",
