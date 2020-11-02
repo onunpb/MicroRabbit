@@ -1,15 +1,12 @@
-﻿using MediatR;
-using MicroRabbit.Banking.Domain.Commands;
-using MicroRabbit.Banking.Domain.Events;
-using MicroRabbit.Domain.Core.Bus;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
-
-namespace MicroRabbit.Banking.Domain.CommandHandlers
+﻿namespace MicroRabbit.Banking.Domain.CommandHandlers
 {
+    using MediatR;
+    using MicroRabbit.Banking.Domain.Commands;
+    using MicroRabbit.Banking.Domain.Events;
+    using MicroRabbit.Domain.Core.Bus;
+    using System.Threading;
+    using System.Threading.Tasks;
+
     public class TransferCommandHandler : IRequestHandler<CreateTransferCommand, bool>
     {
         private readonly IEventBus _bus;

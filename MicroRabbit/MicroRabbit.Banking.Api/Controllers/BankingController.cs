@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using MicroRabbit.Banking.Application.Interfaces;
-using MicroRabbit.Banking.Application.Models;
-using MicroRabbit.Banking.Domain.Model;
-using Microsoft.AspNetCore.Mvc;
-
-namespace MicroRabbit.Banking.Api.Controllers
+﻿namespace MicroRabbit.Banking.Api.Controllers
 {
+    using MicroRabbit.Banking.Application.Interfaces;
+    using MicroRabbit.Banking.Application.Models;
+    using MicroRabbit.Banking.Domain.Model;
+    using Microsoft.AspNetCore.Mvc;
+    using System.Collections.Generic;
+
     [Route("api/[controller]")]
     [ApiController]
     public class BankingController : ControllerBase

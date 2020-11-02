@@ -1,26 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using MediatR;
-using MicroRabbit.Domain.Core.Bus;
-using MicroRabbit.Infra.IoC;
-using MicroRabbit.Transfer.Data.Context;
-using MicroRabbit.Transfer.Domain.EventHandlers;
-using MicroRabbit.Transfer.Domain.Events;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-using Swashbuckle.AspNetCore.Swagger;
-
-namespace MicroRabbit.Transfer.Api
+﻿namespace MicroRabbit.Transfer.Api
 {
+    using MediatR;
+    using MicroRabbit.Domain.Core.Bus;
+    using MicroRabbit.Infra.IoC;
+    using MicroRabbit.Transfer.Data.Context;
+    using MicroRabbit.Transfer.Domain.EventHandlers;
+    using MicroRabbit.Transfer.Domain.Events;
+    using Microsoft.AspNetCore.Builder;
+    using Microsoft.AspNetCore.Hosting;
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.Extensions.Configuration;
+    using Microsoft.Extensions.DependencyInjection;
+    using Swashbuckle.AspNetCore.Swagger;
+
     public class Startup
     {
         public Startup(IConfiguration configuration)
@@ -46,7 +39,6 @@ namespace MicroRabbit.Transfer.Api
             });
 
             services.AddMediatR(typeof(Startup));
-
 
             RegisterServices(services);
         }
@@ -77,7 +69,7 @@ namespace MicroRabbit.Transfer.Api
             });
             app.UseMvc();
 
-            ConfigureEventBus(app); 
+            ConfigureEventBus(app);
         }
 
         private void ConfigureEventBus(IApplicationBuilder app)

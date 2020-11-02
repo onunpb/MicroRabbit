@@ -1,10 +1,7 @@
-﻿using MicroRabbit.Domain.Core.Events;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MicroRabbit.Banking.Domain.Events
+﻿namespace MicroRabbit.Banking.Domain.Events
 {
+    using MicroRabbit.Domain.Core.Events;
+
     public class TransferCreatedEvent : Event
     {
         public int From { get; private set; }

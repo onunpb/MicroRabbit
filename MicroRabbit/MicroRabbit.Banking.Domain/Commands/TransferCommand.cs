@@ -1,10 +1,7 @@
-﻿using MicroRabbit.Domain.Core.Commands;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MicroRabbit.Banking.Domain.Commands
+﻿namespace MicroRabbit.Banking.Domain.Commands
 {
+    using MicroRabbit.Domain.Core.Commands;
+
     public class TransferCommand : Command
     {
         public int From { get; protected set; }

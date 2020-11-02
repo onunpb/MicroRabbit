@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using MicroRabbit.Banking.Domain.Commands;
-
-namespace MicroRabbit.Banking.Domain.Commands
+﻿namespace MicroRabbit.Banking.Domain.Commands
 {
     public class CreateTransferCommand : TransferCommand
     {

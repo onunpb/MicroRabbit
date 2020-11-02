@@ -1,23 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using MediatR;
-using MicroRabbit.Banking.Data.Context;
-using MicroRabbit.Infra.IoC;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-using Swashbuckle.AspNetCore.Swagger;
-
-namespace MicroRabbit.Banking.Api
+﻿namespace MicroRabbit.Banking.Api
 {
+    using MediatR;
+    using MicroRabbit.Banking.Data.Context;
+    using MicroRabbit.Infra.IoC;
+    using Microsoft.AspNetCore.Builder;
+    using Microsoft.AspNetCore.Hosting;
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.Extensions.Configuration;
+    using Microsoft.Extensions.DependencyInjection;
+    using Swashbuckle.AspNetCore.Swagger;
+
     public class Startup
     {
         public Startup(IConfiguration configuration)
@@ -43,7 +36,6 @@ namespace MicroRabbit.Banking.Api
             });
 
             services.AddMediatR(typeof(Startup));
-
 
             RegisterServices(services);
         }

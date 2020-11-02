@@ -1,12 +1,10 @@
-﻿using MicroRabbit.Banking.Data.Context;
-using MicroRabbit.Banking.Domain.Interfaces;
-using MicroRabbit.Banking.Domain.Model;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MicroRabbit.Banking.Data.Repository
+﻿namespace MicroRabbit.Banking.Data.Repository
 {
+    using MicroRabbit.Banking.Data.Context;
+    using MicroRabbit.Banking.Domain.Interfaces;
+    using MicroRabbit.Banking.Domain.Model;
+    using System.Collections.Generic;
+
     public class AccountRepository : IAccountRepository
     {
         private BankingDbContext _ctx;
@@ -15,6 +13,7 @@ namespace MicroRabbit.Banking.Data.Repository
         {
             _ctx = ctx;
         }
+
         public IEnumerable<Account> GetAccounts()
         {
             return _ctx.Accounts;
